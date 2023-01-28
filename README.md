@@ -10,9 +10,7 @@ width="45" /> I'm Anand Singavarapu </h1>
 # 💫 About Me :
 - 😄 Pronouns: He/His
 - 💻 An aspiring MERN stack Developer.
-- 🔭 I’m currently building My personal NodeJs Project.
 - 🌱 I’m currently learning more about Data Structures and Algorithms  in Js.
-- 🤔 I’m looking for help with Front-End development-->ReactJs.
 - 💬 Ask me about NodeJs, ExpressJs or MongoDB.
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I spend almost 9 hours programming & 3 hours listening to songs every day.
